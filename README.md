@@ -3,7 +3,7 @@
 <h1 align="center">
   Hi 👋, I'm Aryan Magdum 
 </h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&center=true&width=435&lines=UI/UX Designer +%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Graphic Designer+%F0%9F%8C%90;IOS Developer+%F0%9F%97%84%EF%B8%8F;Java Developer+%F0%9F%97%84%EF%B8%8F" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space Grotesk+Code&duration=3000&pause=2000&center=true&width=435&lines=UI/UX Designer ;Graphic Designer;IOS Developer;Java Developer" alt="Typing SVG" /></a></h3>
 
 
 
