@@ -6,10 +6,15 @@
 
 ###
 
-<p align="left">Hi! I am Aryan Magdum.<br><br>- 🔭 Gusto about applying technology in real life<br>- 📚 Currently exceling my development skills in Web3 and MERN<br>- ⚡ Regionalist @ Solving For India GFG x Google Cloud</p>
+<p align="left">Hi! I am Aryan Magdum.<br>- 📚 Currently exceling my development skills in Web3 and MERN</p>
 
 ###
 
+## 🌐 Socials:
+<p align="left">  Checkout my portfolio here :- </p>
+<a href="https://aryanmagdum14.netlify.app/"</a>
+
+<img src="https://aryanmagdum14.netlify.app/" height="40" />
 <h3 align="left">🛠 Tech Stack:</h3>
 
 ###
@@ -43,9 +48,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
 </div>
 
 ###
@@ -55,8 +57,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharvk47&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvk47&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aru14171&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aru1417&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
