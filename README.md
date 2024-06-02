@@ -1,10 +1,10 @@
-<img src = "" width="10000" height="300" >
-<img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h1 align="center">
   Hi 👋, I'm Aryan Magdum 
 </h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space Grotesk+Code&duration=3000&pause=2000&center=true&width=435&lines=UI/UX Designer ;Graphic Designer;IOS Developer;Java Developer" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0042D0&center=true&random=false&width=435&lines=UI%2FUX+Designer;Graphics+Designer;Full+Stack+Developer;Java+Developer" alt="Typing SVG" /></a></h3>
 
+<img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <p align="left"> 📚 Currently exceling my development skills in Web3 and MERN</p>
